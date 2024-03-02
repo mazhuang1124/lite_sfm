@@ -89,7 +89,7 @@ sudo make install
 
 8.编译
 git clone https://github.com/mazhuang1124/lite_sfm.git
-cd lite_sfm 
+cd lite_sfm && mkdir build && cd build
 cmake .. && make
 ./lite_sfm
 # 默认为debug模式，开启cout、cv_imshow、pcl_viewer
