@@ -1,4 +1,4 @@
-# Stereo SLAM
+# Lite SFM
 
 ## 概述
 
