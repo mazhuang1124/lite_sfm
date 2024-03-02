@@ -86,7 +86,7 @@ make test
 sudo make install
 
 8.编译
-git clone https://
+git clone https://github.com/mazhuang1124/lite_sfm.git
 cd lite_sfm 
 cmake .. && make
 ./lite_sfm
